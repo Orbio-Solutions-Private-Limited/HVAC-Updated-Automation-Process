@@ -1,0 +1,5 @@
+file_path_to_output = "E:\\Demo"
+brands_mapping_location = "E:\\Demo\\brands-mapping.xlsx"
+map_api_location = "E:\\Demo\\Map-Api.xlsx"
+map_location = "E:\\Demo\\map.xlsx"
+last_month_file_location = "E:\\Demo\\HVAC Last Month\\EXCEL"
